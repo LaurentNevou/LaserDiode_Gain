@@ -4,7 +4,7 @@
 
 % This program computes the absorption and gain of interband transition in 
 % semiconductor. It can computes the gain in bulk (3D) or in quantum well (2D)
-% Various materail and their alloys are available in the library
+% Various material and their alloys are available in the library
 
 % This special version allow to do a sweep over the density of charges N
 
